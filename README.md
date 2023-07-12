@@ -1,5 +1,6 @@
 # LinqPractices
-#Questions
+# Questions
+
 //Given an array of integers, write a query that returns list of numbers greater than 30 and less than 100.
 
 // Write a query that returns words at least 5 characters long and make them uppercase.
